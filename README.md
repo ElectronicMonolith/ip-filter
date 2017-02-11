@@ -1,8 +1,10 @@
-# Branches
-master- manually updated
+# ip-filter
 
-scripted- automatically updated. errors are possible
+### Branches
+* master - *manually updated*
 
-dev- everything else
+* scripted - *automatically updated. errors are possible*
 
-# Notes
+* dev - *everything else*
+
+## Notes
