@@ -1,2 +1,8 @@
-# ip-filter
-A list of known bots
+# Branches
+master- manually updated
+
+scripted- automatically updated. errors are possible
+
+dev- everything else
+
+# Notes
